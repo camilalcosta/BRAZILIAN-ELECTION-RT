@@ -15,7 +15,7 @@ This project bring the results updated every 5 secs direct from TSE API.
 2 - Install the dependencies on requirements file:
 `pip install -r requirements.txt`
 
-3 - To see the results just use this command below
+3 - To see the results just use this command:
 `python main.py --show_results`
 
 
